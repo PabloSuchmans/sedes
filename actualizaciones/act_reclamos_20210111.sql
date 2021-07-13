@@ -1,0 +1,1 @@
+ALTER TABLE `usuarios` ADD `ultima_actualizacion` TIMESTAMP NOT NULL;

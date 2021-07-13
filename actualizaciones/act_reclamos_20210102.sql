@@ -1,0 +1,1 @@
+ALTER TABLE `usuarios` ADD `lon` VARCHAR(20) NOT NULL AFTER `inactivo`, ADD `lat` VARCHAR(20) NOT NULL AFTER `lon`;

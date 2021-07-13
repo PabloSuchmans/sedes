@@ -1,0 +1,1 @@
+ALTER TABLE `usuarios` ADD `notificacion_id` VARCHAR(100) NOT NULL;

@@ -1,0 +1,1 @@
+ALTER TABLE `parametros` ADD `email_resolucion` VARCHAR(500) NOT NULL;

@@ -1,0 +1,1 @@
+set fecha_actualizacion=CURRENT_TIMESTAMP;
